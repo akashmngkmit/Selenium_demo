@@ -15,3 +15,7 @@ The follwing are the steps followed while learning the basics of Selenium:
      (enter your macOS password when prompted).
    - If it still fails, check System Settings → Privacy & Security → Automation or Accessibility and allow Terminal or your Node runtime to control Safari.
    - Run your script again: `node index.js` — Safari should now be controllable via WebDriver.
+
+   ***
+
+   ##1. **_Test 1_**
